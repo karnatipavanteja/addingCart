@@ -2,6 +2,7 @@ const productCardsContainer = document.querySelector("#product-cards-container")
 const cartCardsContainer = document.querySelector("#cart-cards-container");
 const emptyMessage = document.querySelector("#empty-message");
 const totalPrice = document.querySelector("#total-price");
+// this js file is used to store the details about all the products
 const productList = [
     {id: 1, name: "Product-1", price:100},
     {id: 2, name: "Product-2", price:200},
