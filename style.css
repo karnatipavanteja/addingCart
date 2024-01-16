@@ -31,6 +31,7 @@ main{
     width: 55%;
     height: var(--container-height);
     padding: var(--container-padding);
+    background-color:red
 }
 
 .border{
@@ -66,7 +67,7 @@ main{
     align-items: center;
     width: 100px;
     padding: 0.625rem;
-    background-color: rgb(34, 92, 107);
+    background-color: red;
     border-radius: 50px;
     border: 2px solid black;
 }
