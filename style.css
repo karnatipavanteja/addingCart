@@ -31,7 +31,7 @@ main{
     width: 55%;
     height: var(--container-height);
     padding: var(--container-padding);
-    background-color:red
+    background-color:red;
 }
 
 .border{
